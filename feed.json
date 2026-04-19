@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dheeraj SInghal",
+    "description": "",
+    "home_page_url": "https://github.com/singhaldheeraj/singhaldheeraj.github.io",
+    "feed_url": "https://github.com/singhaldheeraj/singhaldheeraj.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dheeraj"
+    },
+    "items": [
+        {
+            "id": "https://github.com/singhaldheeraj/singhaldheeraj.github.io/test-post.html",
+            "url": "https://github.com/singhaldheeraj/singhaldheeraj.github.io/test-post.html",
+            "title": "Test Post",
+            "summary": "Hello this is a test",
+            "content_html": "<p>Hello this is a test </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Dheeraj"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-19T09:48:34+05:30",
+            "date_modified": "2026-04-19T09:48:34+05:30"
+        }
+    ]
+}
